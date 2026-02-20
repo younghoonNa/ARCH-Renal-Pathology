@@ -4,7 +4,7 @@
 > 
 > 🥇 **1st Place on the Internal Leaderboard**
 >
-> **(https://maic.or.kr/challenge/53/info/overview)**
+> **https://maic.or.kr/challenge/53/board/1141**
 > 
 > This repository contains the official codebase and research pipeline for **Team Kidneyden's** submission to the MAIC. Our model, **ARCH**, was recognized for its novel approach to prognostic assessment in renal pathology, achieving the highest performance in the internal evaluation.
 >
