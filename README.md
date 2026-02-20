@@ -37,7 +37,8 @@ Chronic kidney disease (CKD) and IgA Nephropathy pose a significant global healt
 
 ### 3. Deep Learning Architecture (ARCH)
 
-<img width="904" height="505" alt="ModelArchitecture" src="https://github.com/user-attachments/assets/f7c6f352-034f-43b6-892c-345b1e772e19" />
+<img width="904" height="505" alt="architecture" src="https://github.com/user-attachments/assets/d3680974-c205-4bae-b093-7904dbc00fd6" />
+
 
 * **Feature Extraction (Frozen GigaPath):** WSI patches are categorized and passed through a frozen GigaPath model to extract rich, pathology-specific embeddings.
 * **TransMIL Encoder:** The extracted features are aggregated using TransMIL to capture long-range contextual dependencies across the slide.
