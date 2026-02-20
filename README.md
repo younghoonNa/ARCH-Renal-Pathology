@@ -1,8 +1,11 @@
 # ARCH: AI-driven Renal Clustering & Histopathology model
 
 > 🏆 **2nd Place Overall (Seoul National University Hospital Director's Award) at the Medical AI Challenge (MAIC)**
+> 
 > 🥇 **1st Place on the Internal Leaderboard**
 >
+> **(https://maic.or.kr/challenge/53/info/overview)**
+> 
 > This repository contains the official codebase and research pipeline for **Team Kidneyden's** submission to the MAIC. Our model, **ARCH**, was recognized for its novel approach to prognostic assessment in renal pathology, achieving the highest performance in the internal evaluation.
 >
 > **Internal Leaderboard (Top 5)**
