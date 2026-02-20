@@ -1,6 +1,6 @@
 # ARCH: AI-driven Renal Clustering & Histopathology model
 
-> 🏆 **2nd Place Overall (Seoul National University Hospital Director's Award) at the Medical AI Challenge (MAIC)**
+> 🏆 **2nd Place Overall (Seoul National University Hospital [SNUH] Director's Award) at the Medical AI Challenge (MAIC)**
 > 
 > 🥇 **1st Place on the Internal Leaderboard**
 >
